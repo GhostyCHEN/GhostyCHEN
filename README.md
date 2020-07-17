@@ -1,5 +1,6 @@
 ### Hi there 👋
-
+- 🔭 I’m currently working on QingTeng
+- 🌱 I’m currently learning ES6，React...
 <!--
 **GhostyCHEN/GhostyCHEN** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
